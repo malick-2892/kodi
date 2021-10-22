@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 type=stream channelId=3 , tvg-logo="https://static.prsa.pl/App_Themes/_Trojka/logo.png", Trojka - Polskie Radio
+https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
